@@ -60,7 +60,7 @@
     "ip-range-check": "^0.2.0",
     "jsonwebtoken": "^8.5.1",
     "maxmind": "^4.3.1",
-    "mem": "^8.0.0",
+    "mem": "^9.0.2",
     "minimatch": "^3.0.4",
     "nodemailer": "^6.4.17",
     "normalize-email": "^1.1.1",
